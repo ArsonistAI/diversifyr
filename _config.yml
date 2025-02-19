@@ -1,4 +1,5 @@
 baseurl: '/'
+url: "https://arsonistai.github.io"
 permalink: pretty
 title: 'Jekyll Serif'
 
