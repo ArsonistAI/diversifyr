@@ -1,4 +1,7 @@
-baseurl: '/'
+markdown: kramdown
+theme: null
+remote_theme: "zerostaticthemes/jekyll-serif-theme"  # Ensure this line is here
+baseurl: "/diversifyr"  # Repository name preceded by a slash
 url: "https://arsonistai.github.io"
 permalink: pretty
 title: 'Jekyll Serif'
